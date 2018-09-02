@@ -1,0 +1,16 @@
+{
+  "name": "sticky-terminal-display",
+  "version": "0.1.0",
+  "description": "Control and update lines on the terminal for progress bars",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terminal",
+    "stdout",
+    "display"
+  ],
+  "author": "Andrew Jensen <andrewjensen90@gmail.com>",
+  "license": "MIT"
+}
